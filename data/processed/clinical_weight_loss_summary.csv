@@ -1,0 +1,5 @@
+medicamento,marca,dosis,ensayo,nct_id,N,duracion_semanas,perdida_peso_pct,vs_placebo_pp,poblacion,fuente,origen,N_dataset,estado_dataset,en_dataset
+semaglutide,WEGOVY,2.4 mg/sem,STEP 1,NCT03548935,1961,68,-14.9,-12.4,Obesidad/sobrepeso sin DM2,"Wilding et al., NEJM 2021;384:989-1002",literatura (publicacion primaria),1961,COMPLETED,True
+tirzepatide,ZEPBOUND,15 mg/sem,SURMOUNT-1,NCT04184622,2539,72,-20.9,-17.8,Obesidad/sobrepeso sin DM2,"Jastreboff et al., NEJM 2022;387:205-216",literatura (publicacion primaria),2539,COMPLETED,True
+semaglutide,OZEMPIC,1 mg/sem,SURPASS-2,NCT03987919,1879,40,-5.7,,DM2 (comparador activo),"Frias et al., NEJM 2021;385:503-515",literatura (publicacion primaria),1879,COMPLETED,True
+tirzepatide,MOUNJARO,15 mg/sem,SURPASS-2,NCT03987919,1879,40,-11.2,,DM2 (vs semaglutide 1 mg),"Frias et al., NEJM 2021;385:503-515",literatura (publicacion primaria),1879,COMPLETED,True

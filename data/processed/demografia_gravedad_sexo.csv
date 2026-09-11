@@ -1,0 +1,7 @@
+Medicamento,Sexo,N,Graves (%),Hospitalizacion (%),Muerte (%)
+OZEMPIC,Female,9993,49.5,22.7,1.0
+OZEMPIC,Male,5952,48.2,25.3,1.4
+OZEMPIC,Unknown,585,70.6,30.6,0.9
+MOUNJARO,Female,8828,18.9,8.9,0.2
+MOUNJARO,Male,2048,25.3,13.5,0.0
+MOUNJARO,Unknown,979,9.5,3.8,0.1

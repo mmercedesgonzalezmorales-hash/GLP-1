@@ -1,0 +1,4 @@
+Dataset,Filas_antes,Filas_despues,Filas_eliminadas,Duplicados_exactos_raw,Nulos_antes,Nulos_despues,Cols_antes,Cols_despues,Duplicados_ticker_fecha,Booleanos_convertidos,FDA_fuera_rango_stock,FDA_sin_fecha
+drugs_overview,10,10,0,0,6,6,7,9,,,2.0,3.0
+stock_prices,4680,4680,0,0,0,0,9,9,0.0,,,
+adverse_events,149209,149209,0,0,159310,159310,16,16,,5.0,,

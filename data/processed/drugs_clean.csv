@@ -1,0 +1,11 @@
+generic_name,brand_names,manufacturer,indication,fda_first_approval_date,is_investigational,drug_class,ticker,fecha_en_rango_stock
+semaglutide,OZEMPIC; WEGOVY; RYBELSUS,Novo Nordisk,type-2-diabetes/obesity,2017-12-05,False,GLP-1 receptor agonist,NVO,True
+tirzepatide,MOUNJARO; ZEPBOUND,Eli Lilly,type-2-diabetes/obesity,2022-05-13,False,dual GIP/GLP-1 receptor agonist,LLY,True
+liraglutide,VICTOZA; SAXENDA,Novo Nordisk,type-2-diabetes/obesity,2010-01-25,False,GLP-1 receptor agonist,NVO,False
+dulaglutide,TRULICITY,Eli Lilly,type-2-diabetes,2014-09-18,False,GLP-1 receptor agonist,LLY,False
+exenatide,BYETTA; BYDUREON,AstraZeneca,type-2-diabetes,2005-04-28,False,GLP-1 receptor agonist,,False
+lixisenatide,ADLYXIN,Sanofi,type-2-diabetes,2016-07-27,False,GLP-1 receptor agonist,,False
+albiglutide,TANZEUM,GSK,type-2-diabetes,2014-04-15,False,GLP-1 receptor agonist (discontinued),,False
+orforglipron,Sin marca (investigacional),Eli Lilly,type-2-diabetes/obesity (investigational),,True,"GLP-1 receptor agonist (oral, non-peptide)",LLY,False
+retatrutide,Sin marca (investigacional),Eli Lilly,obesity (investigational),,True,triple GLP-1/GIP/glucagon receptor agonist,LLY,False
+cagrilintide-semaglutide,Sin marca (investigacional),Novo Nordisk,obesity (investigational),,True,amylin analog + GLP-1 receptor agonist (combination),NVO,False
